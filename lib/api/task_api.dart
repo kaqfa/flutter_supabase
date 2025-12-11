@@ -7,9 +7,8 @@ import '../models/task.dart';
 
 class TaskApiService {
   // Ganti dengan Supabase project Anda
-  static const String _baseUrl = 'https://znqlaaitfittxcujjuwp.supabase.co';
-  static const String _apiKey =
-      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpucWxhYWl0Zml0dHhjdWpqdXdwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQwNjE5MTUsImV4cCI6MjA3OTYzNzkxNX0.CzQ4Jzm2C3Nhbhj1LEYITgZaBAFEQZu2jZ4onnGnOcM';
+  static const String _baseUrl = 'https://xxx.supabase.co';
+  static const String _apiKey = 'xxx';
 
   String? _accessToken;
 
